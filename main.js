@@ -6,8 +6,8 @@ const countryE1= document.getElementById('country');
 const weatherForecastE1= document.getElementById('weather-forecast');
 const currentTempE1=document.getElementById('current-temp');
 
-const days= ['Sunday','Mondey','Tuesday','Wednesday','Thrusday','friday','Saturday'];
-const months=['Jan','Feb','Mar','Apr','May','Jun','jul','Aug','Sep','Oct','Nov','Dec'];
+const days= ['Sunday','Monday','Tuesday','Wednesday','Thrusday','Friday','Saturday'];
+const months=['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
 
 const API_KEY ='49cc8c821cd2aff9af04c9f98c36eb74'
     
